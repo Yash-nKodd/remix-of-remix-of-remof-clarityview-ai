@@ -1,0 +1,8 @@
+- [x] Upgrade shared shell, metadata, tokens, and responsive navigation
+- [x] Expand dashboard with workflow, capabilities, and honest project status
+- [x] Complete enhancement upload, preprocessing, demo processing, and results handoff
+- [x] Add tabbed results, download/validation actions, fullscreen viewer, and trust views
+- [x] Improve validation and applications interactions without changing their core content
+- [x] Verify desktop/mobile flow and resolve runtime/layout issues
+- [x] Fix enhancement.tsx JSX error and make production build pass
+- [x] Final audit: all routes, console, desktop + mobile widths
